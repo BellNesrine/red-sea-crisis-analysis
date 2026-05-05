@@ -149,7 +149,6 @@ This research analyzes the **2023–2024 Red Sea Crisis** and its **systemic dis
 🎓 Master's in Business Engineering & International Trade  
 🏛️ University of Sousse (FSEG)  
 
-🌐 https://www.intueriglobal.com  
 
 ---
 
