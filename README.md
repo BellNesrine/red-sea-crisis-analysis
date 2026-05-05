@@ -154,13 +154,4 @@ This research analyzes the **2023–2024 Red Sea Crisis** and its **systemic dis
 
 ---
 
-## 📚 Citation
 
-```bibtex
-@mastersthesis{bellamine2024redseacrisis,
-  title={The Red Sea Crisis: Rerouting Global Trade (2023–2024)},
-  author={Bellamine, Nesrine},
-  year={2024-2026},
-  school={University of Sousse},
-}
- ```
