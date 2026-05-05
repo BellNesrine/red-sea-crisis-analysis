@@ -1,4 +1,3 @@
-# red-sea-crisis-analysis
 # 🌍 The Red Sea Crisis: Rerouting Global Trade (2023–2024)
 
 <p align="center">
